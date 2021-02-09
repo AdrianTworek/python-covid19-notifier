@@ -6,4 +6,4 @@
 
 ### You also can download statistics saved in a PDF file. There are stored plots with the data for a country that was chosen to create a PDF.
 
-Have fun!
+## Have fun!
